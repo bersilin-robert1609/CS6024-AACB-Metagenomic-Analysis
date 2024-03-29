@@ -1,0 +1,1477 @@
+Number: 0, Column: dataset_name
+count     3610
+unique      18
+top        hmp
+freq       762
+Name: dataset_name, dtype: object
+
+Number: 1, Column: sampleID
+count       3610
+unique      3367
+top       MH0046
+freq           3
+Name: sampleID, dtype: object
+
+Number: 2, Column: subjectID
+count     3610
+unique    1897
+top       hv07
+freq        30
+Name: subjectID, dtype: object
+
+Number: 3, Column: bodysite
+count      3610
+unique       25
+top       stool
+freq       1989
+Name: bodysite, dtype: object
+
+Number: 4, Column: disease
+count     3610
+unique      20
+top          n
+freq      2054
+Name: disease, dtype: object
+
+Number: 5, Column: age
+count     3610
+unique     255
+top         nd
+freq      2078
+Name: age, dtype: object
+
+Number: 6, Column: gender
+count     3610
+unique       6
+top       male
+freq      1398
+Name: gender, dtype: object
+
+Number: 7, Column: country
+count     3610
+unique      19
+top        usa
+freq      1533
+Name: country, dtype: object
+
+Number: 8, Column: sequencing_technology
+count         3610
+unique           1
+top       Illumina
+freq          3610
+Name: sequencing_technology, dtype: object
+
+Number: 9, Column: pubmedid
+count         3610
+unique          19
+top       22699609
+freq           731
+Name: pubmedid, dtype: int64
+
+Number: 10, Column: camp
+count     3610
+unique       4
+top         nd
+freq      3572
+Name: camp, dtype: object
+
+Number: 11, Column: paired_end_insert_size
+count     3610
+unique     108
+top         nd
+freq      3332
+Name: paired_end_insert_size, dtype: object
+
+Number: 12, Column: read_length
+count     3610
+unique       4
+top         nd
+freq      3332
+Name: read_length, dtype: object
+
+Number: 13, Column: total_reads
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: total_reads, dtype: object
+
+Number: 14, Column: matched_reads
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: matched_reads, dtype: object
+
+Number: 15, Column: uniquely_matching_reads
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: uniquely_matching_reads, dtype: object
+
+Number: 16, Column: uniquely_matched_reads
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: uniquely_matched_reads, dtype: object
+
+Number: 17, Column: gene_number
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: gene_number, dtype: object
+
+Number: 18, Column: gene_number_for_11m_uniquely_matched_reads
+count     3610
+unique     279
+top         nd
+freq      3332
+Name: gene_number_for_11m_uniquely_matched_reads, dtype: object
+
+Number: 19, Column: hitchip_probe_number
+count     3610
+unique     227
+top         nd
+freq      3332
+Name: hitchip_probe_number, dtype: object
+
+Number: 20, Column: bmi
+count     3610
+unique     654
+top         nd
+freq      1908
+Name: bmi, dtype: object
+
+Number: 21, Column: gene_count_class
+count     3610
+unique       3
+top         nd
+freq      3332
+Name: gene_count_class, dtype: object
+
+Number: 22, Column: hitchip_probe_class
+count     3610
+unique       3
+top         nd
+freq      3332
+Name: hitchip_probe_class, dtype: object
+
+Number: 23, Column: #SampleID
+count                    3610
+unique                      2
+top       Metaphlan2_Analysis
+freq                     3572
+Name: #SampleID, dtype: object
+
+Number: 24, Column: rna_sampleid
+count     3610
+unique     274
+top         nd
+freq      3337
+Name: rna_sampleid, dtype: object
+
+Number: 25, Column: infant_gender
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: infant_gender, dtype: object
+
+Number: 26, Column: infant_gestation_weeks
+count     3610
+unique      25
+top         nd
+freq      3152
+Name: infant_gestation_weeks, dtype: object
+
+Number: 27, Column: cohort
+count     3610
+unique       4
+top         nd
+freq      3152
+Name: cohort, dtype: object
+
+Number: 28, Column: less_than_29weeks
+count     3610
+unique       3
+top         nd
+freq      3227
+Name: less_than_29weeks, dtype: object
+
+Number: 29, Column: sample_collection_days
+count     3610
+unique      55
+top         nd
+freq      3155
+Name: sample_collection_days, dtype: object
+
+Number: 30, Column: collectionweek
+count     3610
+unique       8
+top         nd
+freq      3266
+Name: collectionweek, dtype: object
+
+Number: 31, Column: samplecollectionwindow
+count     3610
+unique       7
+top         nd
+freq      3153
+Name: samplecollectionwindow, dtype: object
+
+Number: 32, Column: gut_sample_id_ncbipublic
+count     3610
+unique     457
+top         nd
+freq      3152
+Name: gut_sample_id_ncbipublic, dtype: object
+
+Number: 33, Column: gut_sample_id_corrected
+count     3610
+unique     457
+top         nd
+freq      3152
+Name: gut_sample_id_corrected, dtype: object
+
+Number: 34, Column: projectid
+count     3610
+unique     455
+top         nd
+freq      3154
+Name: projectid, dtype: object
+
+Number: 35, Column: flowcell
+count     3610
+unique      13
+top         nd
+freq      3154
+Name: flowcell, dtype: object
+
+Number: 36, Column: comment
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: comment, dtype: object
+
+Number: 37, Column: mlst_project
+count     3610
+unique      72
+top         nd
+freq      3537
+Name: mlst_project, dtype: object
+
+Number: 38, Column: mlst_ec
+count     3610
+unique       3
+top         nd
+freq      3544
+Name: mlst_ec, dtype: object
+
+Number: 39, Column: st_ec
+count     3610
+unique      30
+top         nd
+freq      3544
+Name: st_ec, dtype: object
+
+Number: 40, Column: mlst_kp
+count     3610
+unique       3
+top         nd
+freq      3601
+Name: mlst_kp, dtype: object
+
+Number: 41, Column: st_kp
+count     3610
+unique      10
+top         nd
+freq      3601
+Name: st_kp, dtype: object
+
+Number: 42, Column: extractionprotocolid
+count     3610
+unique       6
+top         nd
+freq      3152
+Name: extractionprotocolid, dtype: object
+
+Number: 43, Column: site_id_cincinnati
+count     3610
+unique       4
+top         nd
+freq      3152
+Name: site_id_cincinnati, dtype: object
+
+Number: 44, Column: delivery_mode
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: delivery_mode, dtype: object
+
+Number: 45, Column: infant_ethnicity
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: infant_ethnicity, dtype: object
+
+Number: 46, Column: infant_race
+count     3610
+unique       5
+top         nd
+freq      3152
+Name: infant_race, dtype: object
+
+Number: 47, Column: birth_year
+count     3610
+unique       8
+top         nd
+freq      3152
+Name: birth_year, dtype: object
+
+Number: 48, Column: necrotizing_enterocolitis
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: necrotizing_enterocolitis, dtype: object
+
+Number: 49, Column: dol_firstnecors
+count     3610
+unique      25
+top         nd
+freq      3152
+Name: dol_firstnecors, dtype: object
+
+Number: 50, Column: sepsis
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: sepsis, dtype: object
+
+Number: 51, Column: infant_birthweight_kg
+count     3610
+unique     181
+top         nd
+freq      3152
+Name: infant_birthweight_kg, dtype: object
+
+Number: 52, Column: infant_birth_length_cm
+count     3610
+unique      72
+top         nd
+freq      3152
+Name: infant_birth_length_cm, dtype: object
+
+Number: 53, Column: maternal_abx_given
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: maternal_abx_given, dtype: object
+
+Number: 54, Column: postnatal_antimicrobial_use
+count     3610
+unique       5
+top         nd
+freq      3152
+Name: postnatal_antimicrobial_use, dtype: object
+
+Number: 55, Column: postnatal_abx_2window
+count     3610
+unique       3
+top         nd
+freq      3226
+Name: postnatal_abx_2window, dtype: object
+
+Number: 56, Column: perinatal_antimicrobial_use
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: perinatal_antimicrobial_use, dtype: object
+
+Number: 57, Column: death
+count     3610
+unique       3
+top         nd
+freq      3153
+Name: death, dtype: object
+
+Number: 58, Column: nursing_status
+count     3610
+unique       8
+top         nd
+freq      3224
+Name: nursing_status, dtype: object
+
+Number: 59, Column: maternal_age_at_delivery_years
+count     3610
+unique      49
+top         nd
+freq      3152
+Name: maternal_age_at_delivery_years, dtype: object
+
+Number: 60, Column: mat_age_bin
+count     3610
+unique       4
+top         nd
+freq      3226
+Name: mat_age_bin, dtype: object
+
+Number: 61, Column: parity
+count     3610
+unique      17
+top         nd
+freq      3152
+Name: parity, dtype: object
+
+Number: 62, Column: infant_fut2
+count     3610
+unique       4
+top         nd
+freq      3153
+Name: infant_fut2, dtype: object
+
+Number: 63, Column: mat_fut2
+count     3610
+unique       4
+top         nd
+freq      3192
+Name: mat_fut2, dtype: object
+
+Number: 64, Column: lowh
+count     3610
+unique       3
+top         nd
+freq      3537
+Name: lowh, dtype: object
+
+Number: 65, Column: lowlea
+count     3610
+unique       3
+top         nd
+freq      3537
+Name: lowlea, dtype: object
+
+Number: 66, Column: highslea
+count     3610
+unique       3
+top         nd
+freq      3537
+Name: highslea, dtype: object
+
+Number: 67, Column: married
+count     3610
+unique       4
+top         nd
+freq      3152
+Name: married, dtype: object
+
+Number: 68, Column: gravida
+count     3610
+unique      23
+top         nd
+freq      3152
+Name: gravida, dtype: object
+
+Number: 69, Column: preeclampsia
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: preeclampsia, dtype: object
+
+Number: 70, Column: mult_birth
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: mult_birth, dtype: object
+
+Number: 71, Column: hypertension
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: hypertension, dtype: object
+
+Number: 72, Column: hypertension_prepreg
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: hypertension_prepreg, dtype: object
+
+Number: 73, Column: chorioamnionitis
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: chorioamnionitis, dtype: object
+
+Number: 74, Column: primipar
+count     3610
+unique       3
+top         nd
+freq      3152
+Name: primipar, dtype: object
+
+Number: 75, Column: daysonform3daysprior
+count     3610
+unique       5
+top         nd
+freq      3153
+Name: daysonform3daysprior, dtype: object
+
+Number: 76, Column: days_on_abx_14
+count     3610
+unique      29
+top         nd
+freq      3152
+Name: days_on_abx_14, dtype: object
+
+Number: 77, Column: visit_number
+count     3610
+unique       8
+top         nd
+freq      2629
+Name: visit_number, dtype: object
+
+Number: 78, Column: snprnt
+count     3610
+unique     962
+top         nd
+freq      2629
+Name: snprnt, dtype: object
+
+Number: 79, Column: wmsphase
+count     3610
+unique       4
+top         nd
+freq      2629
+Name: wmsphase, dtype: object
+
+Number: 80, Column: first
+count     3610
+unique      45
+top         nd
+freq      3557
+Name: first, dtype: object
+
+Number: 81, Column: repeat
+count     3610
+unique       8
+top         nd
+freq      3557
+Name: repeat, dtype: object
+
+Number: 82, Column: stooltexture
+count     3610
+unique       7
+top         nd
+freq      3557
+Name: stooltexture, dtype: object
+
+Number: 83, Column: daysafteronset
+count     3610
+unique      17
+top         nd
+freq      3557
+Name: daysafteronset, dtype: object
+
+Number: 84, Column: hus
+count     3610
+unique       5
+top         nd
+freq      3557
+Name: hus, dtype: object
+
+Number: 85, Column: stec_count
+count     3610
+unique       6
+top         nd
+freq      3557
+Name: stec_count, dtype: object
+
+Number: 86, Column: shigatoxin2elisa
+count     3610
+unique       5
+top         nd
+freq      3557
+Name: shigatoxin2elisa, dtype: object
+
+Number: 87, Column: readsmillions
+count     3610
+unique      50
+top         nd
+freq      3557
+Name: readsmillions, dtype: object
+
+Number: 88, Column: nonhuman
+count     3610
+unique      24
+top         nd
+freq      3557
+Name: nonhuman, dtype: object
+
+Number: 89, Column: stec_coverage
+count     3610
+unique      22
+top         nd
+freq      3557
+Name: stec_coverage, dtype: object
+
+Number: 90, Column: stxab_detected
+count     3610
+unique       5
+top         nd
+freq      3557
+Name: stxab_detected, dtype: object
+
+Number: 91, Column: stx_ratio
+count     3610
+unique      12
+top         nd
+freq      3557
+Name: stx_ratio, dtype: object
+
+Number: 92, Column: typingdata
+count     3610
+unique       5
+top         nd
+freq      3557
+Name: typingdata, dtype: object
+
+Number: 93, Column: c_difficile_frequency
+count     3610
+unique      12
+top         nd
+freq      3557
+Name: c_difficile_frequency, dtype: object
+
+Number: 94, Column: ibd
+count     3610
+unique       3
+top         nd
+freq      3500
+Name: ibd, dtype: object
+
+Number: 95, Column: sampling_day
+count     3610
+unique     134
+top         nd
+freq      3228
+Name: sampling_day, dtype: object
+
+Number: 96, Column: known_consumers_of_a_defined_fermented_milk_product_(dfmp)
+count     3610
+unique       3
+top         nd
+freq      3228
+Name: known_consumers_of_a_defined_fermented_milk_product_(dfmp), dtype: object
+
+Number: 97, Column: mgs_richness
+count     3610
+unique     167
+top         nd
+freq      3228
+Name: mgs_richness, dtype: object
+
+Number: 98, Column: mgs_profile_matched_sample_pairs
+count     3610
+unique      78
+top         nd
+freq      3228
+Name: mgs_profile_matched_sample_pairs, dtype: object
+
+Number: 99, Column: ethnicity
+count     3610
+unique       3
+top         nd
+freq      3170
+Name: ethnicity, dtype: object
+
+Number: 100, Column: sample_name
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: sample_name, dtype: object
+
+Number: 101, Column: index_2_primer
+count     3610
+unique       9
+top         nd
+freq      3540
+Name: index_2_primer, dtype: object
+
+Number: 102, Column: index_1_primer
+count     3610
+unique      13
+top         nd
+freq      3540
+Name: index_1_primer, dtype: object
+
+Number: 103, Column: sample_name_repeat1
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: sample_name_repeat1, dtype: object
+
+Number: 104, Column: extraction_conc
+count     3610
+unique      62
+top         nd
+freq      3540
+Name: extraction_conc, dtype: object
+
+Number: 105, Column: sampleid_with_barcode
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: sampleid_with_barcode, dtype: object
+
+Number: 106, Column: initial_nreads
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: initial_nreads, dtype: object
+
+Number: 107, Column: quality_control
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: quality_control, dtype: object
+
+Number: 108, Column: screensensloc_hg19
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: screensensloc_hg19, dtype: object
+
+Number: 109, Column: screensensloc_phix174
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: screensensloc_phix174, dtype: object
+
+Number: 110, Column: screenhiv
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: screenhiv, dtype: object
+
+Number: 111, Column: percent_initial_reads
+count     3610
+unique      66
+top         nd
+freq      3540
+Name: percent_initial_reads, dtype: object
+
+Number: 112, Column: percent_qc_reads
+count     3610
+unique      70
+top         nd
+freq      3540
+Name: percent_qc_reads, dtype: object
+
+Number: 113, Column: tipo_prelievo
+count     3610
+unique       5
+top         nd
+freq      3540
+Name: tipo_prelievo, dtype: object
+
+Number: 114, Column: prima_dopo_cura
+count     3610
+unique       2
+top         nd
+freq      3540
+Name: prima_dopo_cura, dtype: object
+
+Number: 115, Column: codice_provetta
+count     3610
+unique      71
+top         nd
+freq      3540
+Name: codice_provetta, dtype: object
+
+Number: 116, Column: data
+count     3610
+unique       4
+top         nd
+freq      3540
+Name: data, dtype: object
+
+Number: 117, Column: prelievo_efemalefemaleettuato_presso
+count     3610
+unique       3
+top         nd
+freq      3540
+Name: prelievo_efemalefemaleettuato_presso, dtype: object
+
+Number: 118, Column: patient_number
+count     3610
+unique      22
+top         nd
+freq      3540
+Name: patient_number, dtype: object
+
+Number: 119, Column: pasi
+count     3610
+unique      12
+top         nd
+freq      3540
+Name: pasi, dtype: object
+
+Number: 120, Column: bsa
+count     3610
+unique       9
+top         nd
+freq      3540
+Name: bsa, dtype: object
+
+Number: 121, Column: age_ofemale_onset
+count     3610
+unique      15
+top         nd
+freq      3540
+Name: age_ofemale_onset, dtype: object
+
+Number: 122, Column: arthritis
+count     3610
+unique       3
+top         nd
+freq      3540
+Name: arthritis, dtype: object
+
+Number: 123, Column: type
+count     3610
+unique       3
+top         nd
+freq      3540
+Name: type, dtype: object
+
+Number: 124, Column: antibiotic_usage
+count     3610
+unique       3
+top         nd
+freq      3540
+Name: antibiotic_usage, dtype: object
+
+Number: 125, Column: stage
+count     3610
+unique       6
+top         nd
+freq      3015
+Name: stage, dtype: object
+
+Number: 126, Column: cirrhotic
+count     3610
+unique       3
+top         nd
+freq      3378
+Name: cirrhotic, dtype: object
+
+Number: 127, Column: hbv_related
+count     3610
+unique       3
+top         nd
+freq      3378
+Name: hbv_related, dtype: object
+
+Number: 128, Column: alcohol_related
+count     3610
+unique       3
+top         nd
+freq      3378
+Name: alcohol_related, dtype: object
+
+Number: 129, Column: other_causes_related
+count     3610
+unique      12
+top         nd
+freq      3378
+Name: other_causes_related, dtype: object
+
+Number: 130, Column: inr
+count     3610
+unique      67
+top         nd
+freq      3378
+Name: inr, dtype: object
+
+Number: 131, Column: crea
+count     3610
+unique      66
+top         nd
+freq      3378
+Name: crea, dtype: object
+
+Number: 132, Column: alb
+count     3610
+unique     157
+top         nd
+freq      3378
+Name: alb, dtype: object
+
+Number: 133, Column: tb
+count     3610
+unique      69
+top         nd
+freq      3378
+Name: tb, dtype: object
+
+Number: 134, Column: pt
+count     3610
+unique      69
+top         nd
+freq      3378
+Name: pt, dtype: object
+
+Number: 135, Column: ascites
+count     3610
+unique       5
+top         nd
+freq      3378
+Name: ascites, dtype: object
+
+Number: 136, Column: he
+count     3610
+unique       4
+top         nd
+freq      3378
+Name: he, dtype: object
+
+Number: 137, Column: ctp
+count     3610
+unique      12
+top         nd
+freq      3378
+Name: ctp, dtype: object
+
+Number: 138, Column: meld
+count     3610
+unique      94
+top         nd
+freq      3378
+Name: meld, dtype: object
+
+Number: 139, Column: antivirus
+count     3610
+unique       9
+top         nd
+freq      3378
+Name: antivirus, dtype: object
+
+Number: 140, Column: ?-blocker
+count     3610
+unique       4
+top         nd
+freq      3378
+Name: ?-blocker, dtype: object
+
+Number: 141, Column: designation
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: designation, dtype: object
+
+Number: 142, Column: age_range
+count     3610
+unique       5
+top         nd
+freq      3319
+Name: age_range, dtype: object
+
+Number: 143, Column: site_symmetry
+count     3610
+unique      45
+top         nd
+freq      3319
+Name: site_symmetry, dtype: object
+
+Number: 144, Column: affected/unaffected
+count     3610
+unique       3
+top         nd
+freq      3319
+Name: affected/unaffected, dtype: object
+
+Number: 145, Column: method
+count     3610
+unique       6
+top         nd
+freq      3319
+Name: method, dtype: object
+
+Number: 146, Column: site_characteristic
+count     3610
+unique       6
+top         nd
+freq      3319
+Name: site_characteristic, dtype: object
+
+Number: 147, Column: total_intital_reads
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: total_intital_reads, dtype: object
+
+Number: 148, Column: estimated_median_insert_size
+count     3610
+unique     111
+top         nd
+freq      3319
+Name: estimated_median_insert_size, dtype: object
+
+Number: 149, Column: reported_as_failed_qc
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: reported_as_failed_qc, dtype: object
+
+Number: 150, Column: uniquely_align_to_human
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: uniquely_align_to_human, dtype: object
+
+Number: 151, Column: non_uniquely_align_to_human_with_0_2_mismatches
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: non_uniquely_align_to_human_with_0_2_mismatches, dtype: object
+
+Number: 152, Column: reads_removed_because_of_read_pair_trimming_discrepancy
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: reads_removed_because_of_read_pair_trimming_discrepancy, dtype: object
+
+Number: 153, Column: too_short_after_quality_trimming(<50bp)
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: too_short_after_quality_trimming(<50bp), dtype: object
+
+Number: 154, Column: final_#_paired_reads
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: final_#_paired_reads, dtype: object
+
+Number: 155, Column: final_#_singletons
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: final_#_singletons, dtype: object
+
+Number: 156, Column: total_final_reads
+count     3610
+unique     292
+top         nd
+freq      3319
+Name: total_final_reads, dtype: object
+
+Number: 157, Column: %_reads_kept_by_mean_slope_of_last_5_points_(coverage)
+count     3610
+unique     286
+top         nd
+freq      3319
+Name: %_reads_kept_by_mean_slope_of_last_5_points_(coverage), dtype: object
+
+Number: 158, Column: population
+count     3610
+unique       4
+top         nd
+freq      3552
+Name: population, dtype: object
+
+Number: 159, Column: bmi_class
+count     3610
+unique       6
+top         nd
+freq      3552
+Name: bmi_class, dtype: object
+
+Number: 160, Column: 16s_rrna
+count     3610
+unique       2
+top         nd
+freq      3552
+Name: 16s_rrna, dtype: object
+
+Number: 161, Column: shotgun_metagenome
+count     3610
+unique       2
+top         nd
+freq      3552
+Name: shotgun_metagenome, dtype: object
+
+Number: 162, Column: read_depth_16s
+count     3610
+unique      59
+top         nd
+freq      3552
+Name: read_depth_16s, dtype: object
+
+Number: 163, Column: paired
+count     3610
+unique      59
+top         nd
+freq      3552
+Name: paired, dtype: object
+
+Number: 164, Column: single
+count     3610
+unique      59
+top         nd
+freq      3552
+Name: single, dtype: object
+
+Number: 165, Column: height
+count     3610
+unique      42
+top         nd
+freq      3247
+Name: height, dtype: object
+
+Number: 166, Column: weight
+count     3610
+unique      70
+top         nd
+freq      3247
+Name: weight, dtype: object
+
+Number: 167, Column: diabetic
+count     3610
+unique       4
+top         nd
+freq      3247
+Name: diabetic, dtype: object
+
+Number: 168, Column: fbg
+count     3610
+unique     249
+top         nd
+freq      3247
+Name: fbg, dtype: object
+
+Number: 169, Column: sbp
+count     3610
+unique      56
+top         nd
+freq      3247
+Name: sbp, dtype: object
+
+Number: 170, Column: dbp
+count     3610
+unique      43
+top         nd
+freq      3247
+Name: dbp, dtype: object
+
+Number: 171, Column: fins
+count     3610
+unique     177
+top         nd
+freq      3247
+Name: fins, dtype: object
+
+Number: 172, Column: fcp
+count     3610
+unique      45
+top         nd
+freq      3247
+Name: fcp, dtype: object
+
+Number: 173, Column: hbalc
+count     3610
+unique      74
+top         nd
+freq      3247
+Name: hbalc, dtype: object
+
+Number: 174, Column: tg
+count     3610
+unique     189
+top         nd
+freq      3247
+Name: tg, dtype: object
+
+Number: 175, Column: tcho
+count     3610
+unique     216
+top         nd
+freq      3247
+Name: tcho, dtype: object
+
+Number: 176, Column: hdl
+count     3610
+unique     170
+top         nd
+freq      3102
+Name: hdl, dtype: object
+
+Number: 177, Column: ldl
+count     3610
+unique     263
+top         nd
+freq      3102
+Name: ldl, dtype: object
+
+Number: 178, Column: kit
+count     3610
+unique       3
+top         nd
+freq      3593
+Name: kit, dtype: object
+
+Number: 179, Column: sample_group
+count     3610
+unique       6
+top         nd
+freq      3593
+Name: sample_group, dtype: object
+
+Number: 180, Column: illumina_run
+count     3610
+unique       3
+top         nd
+freq      3593
+Name: illumina_run, dtype: object
+
+Number: 181, Column: classification
+count     3610
+unique       4
+top         nd
+freq      3465
+Name: classification, dtype: object
+
+Number: 182, Column: gad-antibodies
+count     3610
+unique      26
+top         nd
+freq      3465
+Name: gad-antibodies, dtype: object
+
+Number: 183, Column: whr
+count     3610
+unique      28
+top         nd
+freq      3465
+Name: whr, dtype: object
+
+Number: 184, Column: wc
+count     3610
+unique      43
+top         nd
+freq      3465
+Name: wc, dtype: object
+
+Number: 185, Column: cholesterol
+count     3610
+unique     125
+top         nd
+freq      3465
+Name: cholesterol, dtype: object
+
+Number: 186, Column: triglycerides
+count     3610
+unique     102
+top         nd
+freq      3465
+Name: triglycerides, dtype: object
+
+Number: 187, Column: creatinine
+count     3610
+unique      48
+top         nd
+freq      3465
+Name: creatinine, dtype: object
+
+Number: 188, Column: y-gt
+count     3610
+unique      62
+top         nd
+freq      3465
+Name: y-gt, dtype: object
+
+Number: 189, Column: fasting_glucose
+count     3610
+unique      55
+top         nd
+freq      3465
+Name: fasting_glucose, dtype: object
+
+Number: 190, Column: fasting_insulin
+count     3610
+unique      75
+top         nd
+freq      3465
+Name: fasting_insulin, dtype: object
+
+Number: 191, Column: hba1c
+count     3610
+unique      32
+top         nd
+freq      3465
+Name: hba1c, dtype: object
+
+Number: 192, Column: adiponectin
+count     3610
+unique     118
+top         nd
+freq      3465
+Name: adiponectin, dtype: object
+
+Number: 193, Column: leptin
+count     3610
+unique     130
+top         nd
+freq      3465
+Name: leptin, dtype: object
+
+Number: 194, Column: glp-1
+count     3610
+unique      45
+top         nd
+freq      3465
+Name: glp-1, dtype: object
+
+Number: 195, Column: fgf-19
+count     3610
+unique     132
+top         nd
+freq      3465
+Name: fgf-19, dtype: object
+
+Number: 196, Column: hscrp
+count     3610
+unique     127
+top         nd
+freq      3465
+Name: hscrp, dtype: object
+
+Number: 197, Column: c-peptide
+count     3610
+unique      86
+top         nd
+freq      3465
+Name: c-peptide, dtype: object
+
+Number: 198, Column: tnfa
+count     3610
+unique     114
+top         nd
+freq      3465
+Name: tnfa, dtype: object
+
+Number: 199, Column: il-1
+count     3610
+unique      34
+top         nd
+freq      3465
+Name: il-1, dtype: object
+
+Number: 200, Column: cd163
+count     3610
+unique     132
+top         nd
+freq      3465
+Name: cd163, dtype: object
+
+Number: 201, Column: statins
+count     3610
+unique       3
+top         nd
+freq      3465
+Name: statins, dtype: object
+
+Number: 202, Column: insulin
+count     3610
+unique       3
+top         nd
+freq      3465
+Name: insulin, dtype: object
+
+Number: 203, Column: oral_anti-diabetic_medication
+count     3610
+unique       4
+top         nd
+freq      3465
+Name: oral_anti-diabetic_medication, dtype: object
+
+Number: 204, Column: years_in_sweden
+count     3610
+unique      14
+top         nd
+freq      3465
+Name: years_in_sweden, dtype: object
+
+Number: 205, Column: tnm_stage
+count     3610
+unique      15
+top         nd
+freq      3476
+Name: tnm_stage, dtype: object
+
+Number: 206, Column: ajcc_stage
+count     3610
+unique       6
+top         nd
+freq      3476
+Name: ajcc_stage, dtype: object
+
+Number: 207, Column: localization
+count     3610
+unique       7
+top         nd
+freq      3476
+Name: localization, dtype: object
+
+Number: 208, Column: fobt
+count     3610
+unique       3
+top         nd
+freq      3476
+Name: fobt, dtype: object
+
+Number: 209, Column: wif-1_gene_methylation_test
+count     3610
+unique       4
+top         nd
+freq      3476
+Name: wif-1_gene_methylation_test, dtype: object
+
+Number: 210, Column: group
+count     3610
+unique       4
+top         nd
+freq      3476
+Name: group, dtype: object
+
