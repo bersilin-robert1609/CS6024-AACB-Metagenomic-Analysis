@@ -1,0 +1,106 @@
+Dataset:  Candela_Africa - Not found
+disease
+n    38
+
+Dataset:  Chatelier_gut_obesity - Obesity Dataset
+disease
+obesity    164 (Case)
+leaness     89 (Control)
+n           25 (Extra)
+
+Dataset:  doyle_bt2 - Not found
+disease
+nd    458 (Treat as control) or test
+
+Dataset:  hmp - HMP
+disease
+n    762 (Control)
+
+Dataset:  hmpii
+disease
+n    219 (Control)
+
+Dataset:  Loman2013_EcoliOutbreak_DNA_HiSeq
+disease
+stec2-positive    43
+ -                 1
+Name: count, dtype: int64
+
+Dataset:  Loman2013_EcoliOutbreak_DNA_MiSeq
+disease
+stec2-positive    9
+Name: count, dtype: int64
+
+Dataset:  metahit
+disease
+n                         85
+ibd_ulcerative_colitis    21
+ibd_crohn_disease          4
+Name: count, dtype: int64
+
+Dataset:  Neilsen_genome_assembly
+disease
+n                         187
+ibd_ulcerative_colitis    127
+n_relative                 47
+ibd_crohn_disease          21
+Name: count, dtype: int64
+
+Dataset:  Psoriasis_2014
+disease
+y    36
+n    34
+Name: count, dtype: int64
+
+Dataset:  Quin_gut_liver_cirrhosis
+disease
+cirrhosis    118
+n            114
+Name: count, dtype: int64
+
+Dataset:  Segre_Human_Skin
+disease
+n    291
+Name: count, dtype: int64
+
+Dataset:  Tito_subsistence_gut
+disease
+n              35
+overweight     10
+-               7
+obese           5
+underweight     1
+Name: count, dtype: int64
+
+Dataset:  t2dmeta_long
+disease
+n      136
+t2d    135
+ -      19
+Name: count, dtype: int64
+
+Dataset:  t2dmeta_short
+disease
+n      38
+t2d    35
+Name: count, dtype: int64
+
+Dataset:  VerticalTransmissionPilot
+disease
+nd    17
+Name: count, dtype: int64
+
+Dataset:  WT2D
+disease
+t2d                           53
+impaired_glucose_tolerance    49
+n                             43
+Name: count, dtype: int64
+
+Dataset:  Zeller_fecal_colorectal_cancer
+disease
+cancer           48
+n                47
+small_adenoma    26
+large_adenoma    13
+Name: count, dtype: int64
