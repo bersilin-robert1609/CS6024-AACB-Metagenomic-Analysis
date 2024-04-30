@@ -170,6 +170,9 @@ def train(model: nn.Module, loader: DataLoader, optimizer: torch.optim, criterio
     for _, (X_train_tensor, y_train_tensor) in enumerate(loader):
         optimizer.zero_grad()
         
+        if(len(y_train_tensor) < loader.batch_size):
+            continue
+        
         y_pred = model(X_train_tensor)
         
         loss = criterion(y_pred, y_train_tensor)
@@ -196,7 +199,7 @@ def evaluate(model: nn.Module, loader: DataLoader, criterion: nn.Module):
     return true, pred
 
 hyper_parameters = {
-    'disease': disease_info.keys(),
+    'disease': list(disease_info.keys()),
     'lr': [0.00001, 0.00005, 0.0001, 0.0005, 0.001],
     'batch_size': [4, 8, 16, 32],
     'layers': [[128, 64], [256, 128, 64], [512, 256, 128, 64]],
