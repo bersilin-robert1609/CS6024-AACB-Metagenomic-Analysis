@@ -1,0 +1,174 @@
+{
+    "Zeller_fecal_colorectal_cancer": {
+        "disease": "Zeller_fecal_colorectal_cancer",
+        "layers": [
+            512,
+            256,
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 32,
+        "n_epochs": 200,
+        "precision": 0.8636363636363636,
+        "recall": 0.8636363636363636,
+        "f1": 0.8636363636363636,
+        "train_accuracy": 1.0,
+        "test_accuracy": 0.7777777777777778
+    },
+    "WT2D": {
+        "disease": "WT2D",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 4,
+        "n_epochs": 300,
+        "precision": 0.9047619047619048,
+        "recall": 0.8636363636363636,
+        "f1": 0.8837209302325582,
+        "train_accuracy": 0.9827586206896551,
+        "test_accuracy": 0.8275862068965517
+    },
+    "Quin_gut_liver_cirrhosis": {
+        "disease": "Quin_gut_liver_cirrhosis",
+        "layers": [
+            256,
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 4,
+        "n_epochs": 200,
+        "precision": 0.92,
+        "recall": 0.8846153846153846,
+        "f1": 0.9019607843137256,
+        "train_accuracy": 0.9351351351351351,
+        "test_accuracy": 0.8936170212765957
+    },
+    "Psoriasis_2014": {
+        "disease": "Psoriasis_2014",
+        "layers": [
+            512,
+            256,
+            128,
+            64
+        ],
+        "lr": 0.001,
+        "batch_size": 8,
+        "n_epochs": 400,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "train_accuracy": 0.9464285714285714,
+        "test_accuracy": 1.0
+    },
+    "Neilsen_genome_assembly": {
+        "disease": "Neilsen_genome_assembly",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 5e-05,
+        "batch_size": 16,
+        "n_epochs": 200,
+        "precision": 0.9090909090909091,
+        "recall": 0.9090909090909091,
+        "f1": 0.9090909090909091,
+        "train_accuracy": 1.0,
+        "test_accuracy": 0.922077922077922
+    },
+    "metahit": {
+        "disease": "metahit",
+        "layers": [
+            256,
+            128,
+            64
+        ],
+        "lr": 5e-05,
+        "batch_size": 8,
+        "n_epochs": 200,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "train_accuracy": 1.0,
+        "test_accuracy": 1.0
+    },
+    "Loman2013_EcoliOutbreak_DNA_HiSeq": {
+        "disease": "Loman2013_EcoliOutbreak_DNA_HiSeq",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 4,
+        "n_epochs": 300,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "train_accuracy": 1.0,
+        "test_accuracy": 1.0
+    },
+    "Chatelier_gut_obesity": {
+        "disease": "Chatelier_gut_obesity",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 16,
+        "n_epochs": 200,
+        "precision": 0.8125,
+        "recall": 0.7027027027027027,
+        "f1": 0.7536231884057971,
+        "train_accuracy": 0.9774774774774775,
+        "test_accuracy": 0.6964285714285714
+    },
+    "t2dmeta_short": {
+        "disease": "t2dmeta_short",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 1e-05,
+        "batch_size": 16,
+        "n_epochs": 400,
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923,
+        "train_accuracy": 1.0,
+        "test_accuracy": 0.9333333333333333
+    },
+    "t2dmeta_long": {
+        "disease": "t2dmeta_long",
+        "layers": [
+            128,
+            64
+        ],
+        "lr": 0.0001,
+        "batch_size": 16,
+        "n_epochs": 300,
+        "precision": 0.6666666666666666,
+        "recall": 0.8333333333333334,
+        "f1": 0.7407407407407408,
+        "train_accuracy": 0.9913793103448276,
+        "test_accuracy": 0.7586206896551724
+    },
+    "Tito_subsistence_gut": {
+        "disease": "Tito_subsistence_gut",
+        "layers": [
+            256,
+            128,
+            64
+        ],
+        "lr": 5e-05,
+        "batch_size": 16,
+        "n_epochs": 400,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "train_accuracy": 1.0,
+        "test_accuracy": 0.8181818181818182
+    }
+}
